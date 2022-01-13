@@ -14,7 +14,6 @@ medium-, or high-need based on its vulnerable population count.
 The attached PDF details data limitations and quality as well as goals for monitoring the proposed staffing changes' impact via KPIs. The below Tableau link shows the final presentation. The Vimeo link contains an audio presentation of the Tableau report. 
 
 Tableau Link: https://public.tableau.com/app/profile/whitney.lavalle/viz/2_9StorytellingwithDataPresentationsV6/1_9Storytelling
-Vimeo Presentation:
 
 
-https://vimeo.com/646670064
+Vimeo Presentation: https://vimeo.com/646670064
