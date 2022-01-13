@@ -15,4 +15,6 @@ The attached PDF details data limitations and quality as well as goals for monit
 
 Tableau Link: https://public.tableau.com/app/profile/whitney.lavalle/viz/2_9StorytellingwithDataPresentationsV6/1_9Storytelling
 Vimeo Presentation:
+
+
 https://vimeo.com/646670064
